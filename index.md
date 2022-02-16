@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Annika Heckel
 
-You can use the [editor on GitHub](https://github.com/annikaheckel/annikaheckel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an assistant professor in mathematics at [Uppsala University](https://katalog.uu.se/profile/?id=N22-71). 
 
-### Markdown
+Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) in Oxford in 2017 under the supervision of Oliver Riordan.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research
 
-```markdown
-Syntax highlighted code block
+I am interested in combinatorics and probability and the intersection between the two, including random graphs and other random discrete structures. Much of my past research has been about the chromatic number of random graphs.
 
-# Header 1
-## Header 2
-### Header 3
+Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog about my recent work showing non-concentration of the chromatic number.
 
-- Bulleted
-- List
+## Publications
 
-1. Numbered
-2. List
+#### Submitted:
 
-**Bold** and _Italic_ and `Code` text
+- [How does the chromatic number of a random graph vary?](https://arxiv.org/abs/2103.14014) (with Oliver Riordan), 2021.
 
-[Link](url) and ![Image](src)
-```
+#### Published journal papers:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [Non-concentration of the chromatic number of a random graph](https://arxiv.org/abs/1906.11808), *Journal of the American Mathematical Society* **34**, 245-260, 2021.
 
-### Jekyll Themes
+- [Random triangles in random graphs](https://arxiv.org/abs/1802.08472), *Random Structures and Algorithms* **59**(4), 616-621, 2021.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annikaheckel/annikaheckel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Sharp concentration of the equitable chromatic number of dense random graphs](https://arxiv.org/abs/1712.07407), *Combinatorics, Probability and Computing* **29**(2), 213-233, 2020.
 
-### Support or Contact
+- [The chromatic number of dense random graphs](https://arxiv.org/abs/1603.04836), *Random Structures and Algorithms* **53**(1), 140-182, 2018.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [On the threshold for rainbow connection number r in random graphs](https://arxiv.org/abs/1307.7747) (with Oliver Riordan), *Graphs and Combinatorics* **32**(1), 161-174, 2016.
+
+- [Mathematical foundations of and empirical investigations into the dynamic of top positions: Stabilization Effect, Reversed Matthew Effect, and Heraclitus Effect](http://www.psychologie-aktuell.com/fileadmin/download/ptam/4-2013_20131217/05_Ziegler.pdf) (with Albert Ziegler and Albert Ziegler), *Psychological Test and Assessment Modeling* **55**(4), 401-414, 2013.
+
+- [The Hitting Time of Rainbow Connection Number Two](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p37) (with Oliver Riordan), *The Electronic Journal of Combinatorics* **19**(1), P37, 2012.
+
+
+#### Oberwolfach reports:
+
+
+#### Thesis:
+
+[Colourings of Random Graphs](https://www.mathematik.uni-muenchen.de/~heckel/thesis-final.pdf)
+University of Oxford 2017.
