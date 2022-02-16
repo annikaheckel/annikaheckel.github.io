@@ -36,8 +36,11 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 #### Oberwolfach reports:
 
+- [Non-concentration of the chromatic number](https://publications.mfo.de/handle/mfo/3702) (with Oliver Riordan), *Oberwolfach Workshop 2002 "Combinatorics"* 26-29, 2020.
+
+- [Non-concentration of χ(G(n,1/2))](https://publications.mfo.de/handle/mfo/3752), *Oberwolfach Workshop 1916 "Combinatorics, Probability and Computing"*, 1141-1144, 2019.
+
 
 #### Thesis:
 
-[Colourings of Random Graphs](https://www.mathematik.uni-muenchen.de/~heckel/thesis-final.pdf)
-University of Oxford 2017.
+[Colourings of Random Graphs](https://www.mathematik.uni-muenchen.de/~heckel/thesis-final.pdf), University of Oxford, 2017. Supervisor: Oliver Riordan
