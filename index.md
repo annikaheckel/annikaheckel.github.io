@@ -5,11 +5,13 @@ I am an assistant professor in mathematics at [Uppsala University](https://katal
 
 Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) in Oxford in 2017 under the supervision of Oliver Riordan.
 
+**Email:** `FIRSTNAME.LASTNAME@math.uu.se`
+
 ## Research
 
 I am interested in combinatorics and probability and the intersection between the two, including random graphs and other random discrete structures. Much of my past research has been about the chromatic number of random graphs.
 
-Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog about my recent work showing non-concentration of the chromatic number.
+Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog on my recent work showing non-concentration of the chromatic number.
 
 ## Publications
 
