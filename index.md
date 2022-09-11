@@ -38,6 +38,8 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 #### Oberwolfach reports:
 
+- [Cliques in the random graph process and the hitting time of clique factors](https://publications.mfo.de/handle/mfo/3964) (with Marc Kaufmann, Noela Müller, Matija Pasch), *Oberwolfach Workshop 2217 "Combinatorics, Probability and Computing"* 14-16, 2022.
+
 - [Non-concentration of the chromatic number](https://publications.mfo.de/handle/mfo/3702) (with Oliver Riordan), *Oberwolfach Workshop 2002 "Combinatorics"* 30-33, 2020.
 
 - [Non-concentration of χ(G(n,1/2))](https://publications.mfo.de/handle/mfo/3752), *Oberwolfach Workshop 1916 "Combinatorics, Probability and Computing"*, 1141-1144, 2019.
