@@ -15,7 +15,9 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 ## Publications
 
-#### Submitted:
+#### Preprints:
+
+- [Colouring random graphs: Tame colourings](https://arxiv.org/abs/2306.07253) (with Konstantinos Panagiotou), 2023.
 
 - [The hitting time of clique factors](https://arxiv.org/abs/2302.08340) (with Marc Kaufmann, Noela Müller, Matija Pasch), 2023.
 
