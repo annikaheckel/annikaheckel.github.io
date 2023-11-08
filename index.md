@@ -25,7 +25,7 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 #### Accepted:
 
-- [How does the chromatic number of a random graph vary?](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12794) (with Oliver Riordan), 2021. Accepted for publication in the *Jounal of the London Mathematical Society*.
+- [How does the chromatic number of a random graph vary?](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12794) (with Oliver Riordan), 2021. Accepted for publication in the *Journal of the London Mathematical Society*.
 
 
 #### Published journal papers:
