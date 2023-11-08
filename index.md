@@ -3,9 +3,11 @@
 
 I am an assistant professor in mathematics at [Uppsala University](https://katalog.uu.se/profile/?id=N22-71). My research is supported by the Swedish Research Council starting grant `Concentration versus spread - tools, lower bounds and applications', reg. nr. 2022-02829.
 
-Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) in Oxford in 2017 under the supervision of Oliver Riordan.
+Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) at Oxford in 2017 under the supervision of Oliver Riordan.
 
 **Email:** `FIRSTNAME.LASTNAME@math.uu.se`
+
+I am currently on parental leave and will read / respond to email only sporadically.
 
 ## Research
 
@@ -23,7 +25,7 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 #### Accepted:
 
-- [How does the chromatic number of a random graph vary?](https://arxiv.org/abs/2103.14014) (with Oliver Riordan), 2021. Accepted for publication in the *Jounal of the London Mathematical Society*.
+- [How does the chromatic number of a random graph vary?](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12794) (with Oliver Riordan), 2021. Accepted for publication in the *Jounal of the London Mathematical Society*.
 
 
 #### Published journal papers:
@@ -42,6 +44,8 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 - [The Hitting Time of Rainbow Connection Number Two](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p37) (with Oliver Riordan), *The Electronic Journal of Combinatorics* **19**(1), P37, 2012.
 
+#### Conference papers:  
+- [The hitting time of clique factors](https://journals.muni.cz/eurocomb/article/view/35611) (with Marc Kaufmann, Noela Müller and Matija Pasch). *12th European Conference on Combinatorics, Graph Theory and Applications EUROCOMB’23*, 2023.
 
 #### Oberwolfach reports:
 
