@@ -13,7 +13,7 @@ I am currently on parental leave and will read / respond to email only sporadica
 
 I am interested in combinatorics and probability and the intersection between the two, including random graphs and other random discrete structures. Much of my past research has been about the chromatic number of random graphs.
 
-Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog on my recent work showing non-concentration of the chromatic number.
+Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog on my recent work showing non-concentration of the chromatic number, also mentioned [here](https://gilkalai.wordpress.com/2019/06/28/another-sensation-annika-heckel-non-concentration-of-the-chromatic-number-of-a-random-graph/).
 
 ## Publications
 
@@ -21,14 +21,11 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 - [Colouring random graphs: Tame colourings](https://arxiv.org/abs/2306.07253) (with Konstantinos Panagiotou), 2023.
 
-- [The hitting time of clique factors](https://arxiv.org/abs/2302.08340) (with Marc Kaufmann, Noela Müller, Matija Pasch), 2023.
-
-#### Accepted:
-
-- [How does the chromatic number of a random graph vary?](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12794) (with Oliver Riordan), 2021. Accepted for publication in the *Journal of the London Mathematical Society*.
-
-
 #### Published journal papers:
+
+- [The hitting time of clique factors](https://arxiv.org/abs/2302.08340) (with Marc Kaufmann, Noela Müller, Matija Pasch), *Random Structures and Algorithms* **65**(2), 275-312, 2024. 
+
+- [How does the chromatic number of a random graph vary?](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12794) (with Oliver Riordan), *Journal of the London Mathematical Society* **108**(5), 1769-1815, 2023.
 
 - [Non-concentration of the chromatic number of a random graph](https://arxiv.org/abs/1906.11808), *Journal of the American Mathematical Society* **34**, 245-260, 2021.
 
@@ -45,6 +42,7 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 - [The Hitting Time of Rainbow Connection Number Two](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p37) (with Oliver Riordan), *The Electronic Journal of Combinatorics* **19**(1), P37, 2012.
 
 #### Conference papers:  
+
 - [The hitting time of clique factors](https://journals.muni.cz/eurocomb/article/view/35611) (with Marc Kaufmann, Noela Müller and Matija Pasch). *12th European Conference on Combinatorics, Graph Theory and Applications EUROCOMB’23*, 2023.
 
 #### Oberwolfach reports:
