@@ -5,7 +5,7 @@ I am an assistant professor in mathematics at [Uppsala University](https://katal
 
 Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) at Oxford in 2017 under the supervision of Oliver Riordan.
 
-[Full CV](https://raw.githubusercontent.com/annikaheckel/annikaheckel.github.io/resources/Heckel_CV.pdf)
+[Full CV](resources/Heckel_CV.pdf)
 
 
 **Email:** `FIRSTNAME.LASTNAME@math.uu.se`
