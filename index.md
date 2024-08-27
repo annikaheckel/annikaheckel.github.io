@@ -24,6 +24,8 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 #### Preprints:
 
+- [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), 2024.
+
 - [Colouring random graphs: Tame colourings](https://arxiv.org/abs/2306.07253) (with Konstantinos Panagiotou), 2023.
 
 #### Published journal papers:
