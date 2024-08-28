@@ -49,6 +49,7 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 - [The Hitting Time of Rainbow Connection Number Two](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i4p37) (with Oliver Riordan), *The Electronic Journal of Combinatorics* **19**(1), P37, 2012.
 
 #### Conference papers:  
+- On the concentration and non-concentration of the chromatic number. To appear in: *Proceedings of the 2nd International Congress of Basic Science (ICBS), 2024.*
 
 - [The hitting time of clique factors](https://journals.muni.cz/eurocomb/article/view/35611) (with Marc Kaufmann, Noela Müller and Matija Pasch). *12th European Conference on Combinatorics, Graph Theory and Applications EUROCOMB’23*, 2023.
 
