@@ -16,7 +16,7 @@ I am currently on parental leave and will read / respond to email only sporadica
 
 I am interested in combinatorics and probability and the intersection between the two, including random graphs and other random discrete structures. Much of my past research has been about the chromatic number of random graphs.
 
-My work on non-concentration of the chromatic number of G(n, 1/2) was awarded a 2024 Frontiers of Science award in Mathematics at the International Congress of Basic Science. 
+My work on non-concentration of the chromatic number of G(n, 1/2) was awarded a [2024 Frontiers of Science award](https://www.uu.se/5.51414c891919758bd03baaf.html) in Mathematics at the International Congress of Basic Science. 
 
 Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up-in-difficult-times-32-annika-heckels-guest-post-how-does-the-chromatic-number-of-a-random-graph-vary/) I wrote for Gil Kalai's blog on this result (and its extensions), also mentioned [here](https://gilkalai.wordpress.com/2019/06/28/another-sensation-annika-heckel-non-concentration-of-the-chromatic-number-of-a-random-graph/).
 
