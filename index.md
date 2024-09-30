@@ -10,8 +10,6 @@ Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022
 
 **Email:** `FIRSTNAME.LASTNAME@math.uu.se`
 
-I am currently on parental leave and will read / respond to email only sporadically.
-
 ## Research
 
 I am interested in combinatorics and probability and the intersection between the two, including random graphs and other random discrete structures. Much of my past research has been about the chromatic number of random graphs.
@@ -23,6 +21,8 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 ## Publications
 
 #### Preprints:
+
+- [The difference between the chromatic and the cochromatic number of a random graph](https://arxiv.org/abs/2409.17614), 2024.
 
 - [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), 2024.
 
