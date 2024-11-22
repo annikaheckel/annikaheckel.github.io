@@ -21,12 +21,15 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 ## Publications
 
 #### Preprints:
+- [Sharp thresholds for factors in random graphs](https://arxiv.org/abs/2411.14138) (with Fabian Burghart, Marc Kaufmann, Noela Müller, Matija Pasch), 2024. 
 
 - [The difference between the chromatic and the cochromatic number of a random graph](https://arxiv.org/abs/2409.17614), 2024.
 
-- [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), 2024.
-
 - [Colouring random graphs: Tame colourings](https://arxiv.org/abs/2306.07253) (with Konstantinos Panagiotou), 2023.
+
+#### Accepted:
+
+- [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), 2024. Accepted for publication in *The Electronic Journal of Combinatorics*.
 
 #### Published journal papers:
 
