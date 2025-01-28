@@ -1,5 +1,6 @@
 # Annika Heckel
 
+I am spending the Spring semester 2025 in Berkeley at [SLMath](https://www.slmath.org/people/65640) (MSRI). 
 
 I am an assistant professor in mathematics at [Uppsala University](https://katalog.uu.se/profile/?id=N22-71). My research is supported by the Swedish Research Council starting grant `Concentration versus spread - tools, lower bounds and applications', reg. nr. 2022-02829.
 
@@ -27,11 +28,10 @@ Here is a [guest post](https://gilkalai.wordpress.com/2021/10/03/to-cheer-you-up
 
 - [Colouring random graphs: Tame colourings](https://arxiv.org/abs/2306.07253) (with Konstantinos Panagiotou), 2023.
 
-#### Accepted:
-
-- [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), 2024. Accepted for publication in *The Electronic Journal of Combinatorics*.
 
 #### Published journal papers:
+
+- [On a question of Erdős and Gimbel on the cochromatic number](https://arxiv.org/abs/2408.13839), *The Electronic Journal of Combinatorics* **31**(4), P4.72, 2024.
 
 - [The hitting time of clique factors](https://arxiv.org/abs/2302.08340) (with Marc Kaufmann, Noela Müller, Matija Pasch), *Random Structures and Algorithms* **65**(2), 275-312, 2024. 
 
