@@ -1,10 +1,8 @@
 # Annika Heckel
 
-I am spending the Spring semester 2025 in Berkeley at [SLMath](https://www.slmath.org/people/65640) (MSRI). 
-
 I am an assistant professor in mathematics at [Uppsala University](https://katalog.uu.se/profile/?id=N22-71). My research is supported by the Swedish Research Council starting grant `Concentration versus spread - tools, lower bounds and applications', reg. nr. 2022-02829.
 
-Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) at Oxford in 2017 under the supervision of Oliver Riordan.
+I was a research member at SLMath (MSRI) in Berkeley for the Spring semester 2025. Before coming to Uppsala, I held postdoctoral positions at LMU Munich (2019-2022) and the University of Oxford (2016-2019). I completed my [DPhil](https://ora.ox.ac.uk/objects/uuid:79e14d55-0589-4e17-bbb5-a216d81b8875) at Oxford in 2017 under the supervision of Oliver Riordan.
 
 [Full CV](resources/Heckel_CV.pdf)
 
